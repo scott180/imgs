@@ -11,7 +11,7 @@
 ---
 
 > 赤壁赋
-![img1]( https://gitee.com/xy180/imgs/raw/master/other/wzm.chibifu.jpg )
+![img1]( https://gitee.com/xy180/imgs/raw/master/other/wzmChiBiFu.jpg )
 
 > 练习202103280004 gitee
 ![img2]( https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202103/202103280004.jpg )

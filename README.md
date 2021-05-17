@@ -16,11 +16,30 @@
 
 ## 图片 
 
+```
+各git仓库图片链接
+
+csdn_code  加载快，无屏蔽
+https://codechina.csdn.net/xu180/imgs/-/raw/master/mingyue/2021/202104/2021042504.jpg
+
+gitlab  国外网站，加载慢
+https://gitlab.com/xuyq123/imgs/-/raw/master/mingyue/2021/202105/2021050202.jpg
+
+github  国外网站，加载慢
+https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/2021042501.jpg
+
+gitee   加载快，有屏蔽
+https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
+
+```
+
 > 赤壁赋
 ![img1]( ./calligraphy/wzmChiBiFu.jpg )
 
 > 草堂十志
 ![img2]( ./calligraphy/caotangshizhi/1.jpg )
+
+---
 
 ---
 
